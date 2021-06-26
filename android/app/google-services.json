@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "137361590248",
+    "project_id": "a2z-ely-hayshta3-al",
+    "storage_bucket": "a2z-ely-hayshta3-al.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137361590248:android:797b2e991efe76e32b065d",
+        "android_client_info": {
+          "package_name": "com.flutterflow.atoz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137361590248-2vqukt0l1esmanqa1kun4cg3teqc6tp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeoSv2b_1I-WOh359MwATTNxnBFHFAUOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137361590248-2vqukt0l1esmanqa1kun4cg3teqc6tp4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
